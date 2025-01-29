@@ -72,4 +72,4 @@ Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo libremente
 ---
 
 ## Autor
-Desarrollado por [Wilmer Acosta Vela].
+Desarrollado por Wilmer Acosta Vela.
